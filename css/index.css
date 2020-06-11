@@ -14,6 +14,8 @@ h3 {
   color: #ffffff;
 }
 .hero-section {
+  margin-left: auto;
+  margin-right: auto;
   background-color: gray;
   text-align: center;
   padding-top: 200px;
